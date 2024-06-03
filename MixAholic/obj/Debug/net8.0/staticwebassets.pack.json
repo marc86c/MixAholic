@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\VZ\\MixAholic\\MixAholic\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\VZ\\MixAholic\\MixAholic\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MixAholic.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MixAholic.props",
+      "PackagePath": "build\\MixAholic.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MixAholic.props",
+      "PackagePath": "buildMultiTargeting\\MixAholic.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MixAholic.props",
+      "PackagePath": "buildTransitive\\MixAholic.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

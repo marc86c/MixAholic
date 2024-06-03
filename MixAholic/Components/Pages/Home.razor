@@ -1,0 +1,23 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+<PageTitle>MixAholic</PageTitle>
+<button @onclick="OpenCreate">Getränk erstellen</button>
+@if (isCreateOpen)
+{
+	<div>
+		<input placeholder="Name" @bind-value=NewMix.Name/>
+		<input placeholder="Beschreibung" @bind-value=NewMix.Description/>
+		<button @onclick="@(async () => await Save())">Speichern</button>
+	</div>	
+
+}
+
+@foreach (var mix in Mixes)
+{
+	<div @onclick="() => OpenMix(mix.MixID)">
+		<h4>@mix.Name</h4>
+		<p>@mix.Description</p>
+		<p>@mix.RatingStars</p>
+	</div>
+}

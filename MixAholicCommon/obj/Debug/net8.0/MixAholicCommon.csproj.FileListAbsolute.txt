@@ -1,0 +1,14 @@
+C:\VZ\MixAholic\MixAholicCommon\bin\Debug\net8.0\MixAholicCommon.exe
+C:\VZ\MixAholic\MixAholicCommon\bin\Debug\net8.0\MixAholicCommon.deps.json
+C:\VZ\MixAholic\MixAholicCommon\bin\Debug\net8.0\MixAholicCommon.runtimeconfig.json
+C:\VZ\MixAholic\MixAholicCommon\bin\Debug\net8.0\MixAholicCommon.dll
+C:\VZ\MixAholic\MixAholicCommon\bin\Debug\net8.0\MixAholicCommon.pdb
+C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\MixAholicCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\MixAholicCommon.AssemblyInfoInputs.cache
+C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\MixAholicCommon.AssemblyInfo.cs
+C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\MixAholicCommon.csproj.CoreCompileInputs.cache
+C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\MixAholicCommon.dll
+C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\refint\MixAholicCommon.dll
+C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\MixAholicCommon.pdb
+C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\MixAholicCommon.genruntimeconfig.cache
+C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\ref\MixAholicCommon.dll

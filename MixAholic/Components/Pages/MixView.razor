@@ -1,0 +1,35 @@
+﻿@page "/mix/{MixIDString}"
+@rendermode InteractiveServer
+
+
+@if (Mix != null)
+{
+	@if (IsOwner)
+	{
+		<button @onclick="OpenEdit">
+			Bearbeiten
+		</button>	
+		<button @onclick="Remove">Löschen</button>
+	}
+	<div style="display: inline-flex; justify-content: space-between;">
+
+	<div>
+		<label>Name</label>
+		<h1>@Mix.Name</h1>
+		<label>Beschreibung</label>
+		<p>@Mix.Description</p>
+		<label>Rating</label>
+		<p>@Mix.RatingStars</p>
+		<label>Anzahl Bewertungen</label>
+		<p>@Mix.RatingCount</p>
+	</div>
+		@if (isEditing)
+		{
+			<div>
+				<input @bind-value=Mix.Name/>
+				<input @bind-value=Mix.Description/>
+				<button @onclick="Save">Speichern</button>
+			</div>
+		}
+	</div>
+}
