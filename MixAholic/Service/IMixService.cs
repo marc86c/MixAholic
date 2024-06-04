@@ -11,5 +11,6 @@ namespace MixAholic.Service
 
         public Task UpdateMix(Mix mix);
         public Task RemoveMix(int mixId);
+        public Task<Rating> RateMix(Rating rating);
     }
 }

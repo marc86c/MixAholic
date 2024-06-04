@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "C:\\VZ\\MixAholic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|c:\\vz\\mixaholic\\mixaholicapi\\controllers\\mixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|solutionrelative:mixaholicapi\\controllers\\mixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{907A9A83-612B-4442-8905-4D3023C40A86}|MixAholicCommon\\MixAholicCommon.csproj|c:\\vz\\mixaholic\\mixaholiccommon\\model\\mix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907A9A83-612B-4442-8905-4D3023C40A86}|MixAholicCommon\\MixAholicCommon.csproj|solutionrelative:mixaholiccommon\\model\\mix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\service\\mixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\service\\mixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{907A9A83-612B-4442-8905-4D3023C40A86}|MixAholicCommon\\MixAholicCommon.csproj|c:\\vz\\mixaholic\\mixaholiccommon\\model\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907A9A83-612B-4442-8905-4D3023C40A86}|MixAholicCommon\\MixAholicCommon.csproj|solutionrelative:mixaholiccommon\\model\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\components\\pages\\mixview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\components\\pages\\mixview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\components\\pages\\mixview.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\components\\pages\\mixview.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|c:\\vz\\mixaholic\\mixaholicapi\\controllers\\mixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|solutionrelative:mixaholicapi\\controllers\\mixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|c:\\vz\\mixaholic\\mixaholicapi\\service\\mixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|solutionrelative:mixaholicapi\\service\\mixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|c:\\vz\\mixaholic\\mixaholicapi\\data\\mix.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|solutionrelative:mixaholicapi\\data\\mix.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{907A9A83-612B-4442-8905-4D3023C40A86}|MixAholicCommon\\MixAholicCommon.csproj|c:\\vz\\mixaholic\\mixaholiccommon\\model\\mix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{907A9A83-612B-4442-8905-4D3023C40A86}|MixAholicCommon\\MixAholicCommon.csproj|solutionrelative:mixaholiccommon\\model\\mix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|c:\\vz\\mixaholic\\mixaholicapi\\service\\imixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|solutionrelative:mixaholicapi\\service\\imixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\components\\pages\\mixview.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\components\\pages\\mixview.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\service\\mixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\service\\mixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\service\\imixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\service\\imixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|c:\\vz\\mixaholic\\mixaholicapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|solutionrelative:mixaholicapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|c:\\vz\\mixaholic\\mixaholicapi\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|solutionrelative:mixaholicapi\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|c:\\vz\\mixaholic\\mixaholicapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|solutionrelative:mixaholicapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,16 +63,16 @@
       "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\service\\imixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\service\\imixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|c:\\vz\\mixaholic\\mixaholicapi\\service\\mixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|solutionrelative:mixaholicapi\\service\\mixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|c:\\vz\\mixaholic\\mixaholicapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EF32578-05A3-451B-A0D4-2239432E2C32}|MixAholicAPI\\MixAholicAPI.csproj|solutionrelative:mixaholicapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|solutionrelative:mixaholic\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64571AE0-1C35-4648-B053-85346119C75E}|MixAholic\\MixAholic.csproj|c:\\vz\\mixaholic\\mixaholic\\components\\pages\\login.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,41 +138,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Mix.cs",
+              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholicCommon\\Model\\Mix.cs",
+              "RelativeDocumentMoniker": "MixAholicCommon\\Model\\Mix.cs",
+              "ToolTip": "C:\\VZ\\MixAholic\\MixAholicCommon\\Model\\Mix.cs",
+              "RelativeToolTip": "MixAholicCommon\\Model\\Mix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:29:49.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "mix.json",
               "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholicAPI\\Data\\mix.json",
               "RelativeDocumentMoniker": "MixAholicAPI\\Data\\mix.json",
               "ToolTip": "C:\\VZ\\MixAholic\\MixAholicAPI\\Data\\mix.json",
               "RelativeToolTip": "MixAholicAPI\\Data\\mix.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABGAQAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAC3BAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-03T12:54:54.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IMixService.cs",
-              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Service\\IMixService.cs",
-              "RelativeDocumentMoniker": "MixAholic\\Service\\IMixService.cs",
-              "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Service\\IMixService.cs",
-              "RelativeToolTip": "MixAholic\\Service\\IMixService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:25:31.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MixView.razor.cs",
-              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Pages\\MixView.razor.cs",
-              "RelativeDocumentMoniker": "MixAholic\\Components\\Pages\\MixView.razor.cs",
-              "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Pages\\MixView.razor.cs",
-              "RelativeToolTip": "MixAholic\\Components\\Pages\\MixView.razor.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:24:07.665Z",
+              "WhenOpened": "2024-06-04T14:22:49.186Z",
               "EditorCaption": ""
             },
             {
@@ -155,53 +170,89 @@
               "RelativeDocumentMoniker": "MixAholic\\Components\\Pages\\MixView.razor",
               "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Pages\\MixView.razor",
               "RelativeToolTip": "MixAholic\\Components\\Pages\\MixView.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAArwD8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-03T12:23:30.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MixAholic\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "MixAholic\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T10:48:21.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Components\\App.razor",
+              "RelativeDocumentMoniker": "MixAholic\\Components\\App.razor",
+              "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Components\\App.razor",
+              "RelativeToolTip": "MixAholic\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T10:49:43.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMixService.cs",
+              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Service\\IMixService.cs",
+              "RelativeDocumentMoniker": "MixAholic\\Service\\IMixService.cs",
+              "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Service\\IMixService.cs",
+              "RelativeToolTip": "MixAholic\\Service\\IMixService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:25:31.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MixView.razor.cs",
+              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Pages\\MixView.razor.cs",
+              "RelativeDocumentMoniker": "MixAholic\\Components\\Pages\\MixView.razor.cs",
+              "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Pages\\MixView.razor.cs",
+              "RelativeToolTip": "MixAholic\\Components\\Pages\\MixView.razor.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAWwFUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:24:07.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "MixAholic\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "MixAholic\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T12:18:36.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T12:18:36.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Mix.cs",
-              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholicCommon\\Model\\Mix.cs",
-              "RelativeDocumentMoniker": "MixAholicCommon\\Model\\Mix.cs",
-              "ToolTip": "C:\\VZ\\MixAholic\\MixAholicCommon\\Model\\Mix.cs",
-              "RelativeToolTip": "MixAholicCommon\\Model\\Mix.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:14:46.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "MixService.cs",
               "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholicAPI\\Service\\MixService.cs",
               "RelativeDocumentMoniker": "MixAholicAPI\\Service\\MixService.cs",
               "ToolTip": "C:\\VZ\\MixAholic\\MixAholicAPI\\Service\\MixService.cs",
               "RelativeToolTip": "MixAholicAPI\\Service\\MixService.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAUwDkAAAAjAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwCQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T12:11:31.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholicAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MixAholicAPI\\Controllers\\AuthController.cs",
@@ -214,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Login.razor.cs",
               "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Pages\\Login.razor.cs",
               "RelativeDocumentMoniker": "MixAholic\\Components\\Pages\\Login.razor.cs",
@@ -222,25 +273,23 @@
               "RelativeToolTip": "MixAholic\\Components\\Pages\\Login.razor.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAqwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:04:29.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T12:04:29.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Home.razor.cs",
               "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Pages\\Home.razor.cs",
               "RelativeDocumentMoniker": "MixAholic\\Components\\Pages\\Home.razor.cs",
               "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Pages\\Home.razor.cs",
               "RelativeToolTip": "MixAholic\\Components\\Pages\\Home.razor.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAvwDkAAAA2AAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAADwv0cAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:04:29.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T12:04:29.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Service\\AuthService.cs",
               "RelativeDocumentMoniker": "MixAholic\\Service\\AuthService.cs",
@@ -248,33 +297,96 @@
               "RelativeToolTip": "MixAholic\\Service\\AuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:04:23.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T12:04:23.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MixController.cs",
               "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholicAPI\\Controllers\\MixController.cs",
               "RelativeDocumentMoniker": "MixAholicAPI\\Controllers\\MixController.cs",
               "ToolTip": "C:\\VZ\\MixAholic\\MixAholicAPI\\Controllers\\MixController.cs",
               "RelativeToolTip": "MixAholicAPI\\Controllers\\MixController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAkwCEAAABJAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T12:02:09.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "IMixService.cs",
+              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholicAPI\\Service\\IMixService.cs",
+              "RelativeDocumentMoniker": "MixAholicAPI\\Service\\IMixService.cs",
+              "ToolTip": "C:\\VZ\\MixAholic\\MixAholicAPI\\Service\\IMixService.cs",
+              "RelativeToolTip": "MixAholicAPI\\Service\\IMixService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:06:40.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "MixAholic\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "MixAholic\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T10:48:22.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MixService.cs",
               "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholic\\Service\\MixService.cs",
               "RelativeDocumentMoniker": "MixAholic\\Service\\MixService.cs",
               "ToolTip": "C:\\VZ\\MixAholic\\MixAholic\\Service\\MixService.cs",
               "RelativeToolTip": "MixAholic\\Service\\MixService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAD4v04AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T12:02:08.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholicCommon\\Model\\Rating.cs",
+              "RelativeDocumentMoniker": "MixAholicCommon\\Model\\Rating.cs",
+              "ToolTip": "C:\\VZ\\MixAholic\\MixAholicCommon\\Model\\Rating.cs",
+              "RelativeToolTip": "MixAholicCommon\\Model\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:13:11.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholicAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "MixAholicAPI\\Service\\AuthService.cs",
+              "ToolTip": "C:\\VZ\\MixAholic\\MixAholicAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "MixAholicAPI\\Service\\AuthService.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwG0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:58:33.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\VZ\\MixAholic\\MixAholicAPI\\Service\\IAuthService.cs",
+              "RelativeDocumentMoniker": "MixAholicAPI\\Service\\IAuthService.cs",
+              "ToolTip": "C:\\VZ\\MixAholic\\MixAholicAPI\\Service\\IAuthService.cs",
+              "RelativeToolTip": "MixAholicAPI\\Service\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:13:44.576Z",
               "EditorCaption": ""
             }
           ]

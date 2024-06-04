@@ -12,6 +12,7 @@ namespace MixAholicCommon.Model
         public int MixID { get; set; }
         public decimal Stars { get; set; }
         public int UserID { get; set; }
+        public string? Username { get; set; }
         public string CommentTitle { get; set; }
         public string CommentText { get; set; }
     }

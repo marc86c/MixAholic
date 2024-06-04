@@ -2,34 +2,118 @@
 @rendermode InteractiveServer
 
 
+
 @if (Mix != null)
 {
-	@if (IsOwner)
-	{
-		<button @onclick="OpenEdit">
-			Bearbeiten
-		</button>	
-		<button @onclick="Remove">Löschen</button>
-	}
-	<div style="display: inline-flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center; width: 100%">
+	
+	<div style="display: inline-flex; justify-content: space-between; width: 50%">
+		<div>
+			@* Name *@
+			<h1>@Mix.Name</h1>
+			
+			@* Beschreibung *@
+			<label>Beschreibung</label>
+			<p>@Mix.Description</p>
 
-	<div>
-		<label>Name</label>
-		<h1>@Mix.Name</h1>
-		<label>Beschreibung</label>
-		<p>@Mix.Description</p>
-		<label>Rating</label>
-		<p>@Mix.RatingStars</p>
-		<label>Anzahl Bewertungen</label>
-		<p>@Mix.RatingCount</p>
-	</div>
-		@if (isEditing)
-		{
+			@* Zutaten *@
+			<label>Zutaten</label>
 			<div>
-				<input @bind-value=Mix.Name/>
-				<input @bind-value=Mix.Description/>
-				<button @onclick="Save">Speichern</button>
+				@foreach (var ingredient in Mix.Ingredients)
+				{
+						<p>@ingredient.Amount @ingredient.Measurement @ingredient.Name</p>
+				}
 			</div>
-		}
+
+			@* Bewertung *@
+			@* <a href="https://www.flaticon.com/free-icons/star" title="star icons">Star icons created by mim_studio - Flaticon</a> *@
+			@* <a href="https://www.flaticon.com/free-icons/star" title="star icons">Star icons created by Dave Gandy - Flaticon</a> *@
+
+				<label>Rating</label>
+			@* <div style="display: inline-flex; "> *@
+				<div>
+						@foreach (var star in GetStars(Mix.RatingStars))
+						{
+							@if (star == 1)
+							{
+								<img src="full.png" width="1%"/>
+							}
+							@if (star == 2)
+							{
+								<img src="half.png" width="1%">
+							}
+							@if (star == 0)
+							{
+								<img src="empty.png" width="1%" />
+							}
+						}
+					<p>@Mix.RatingStars</p>
+					<p>Aufgrund von @Mix.RatingCount Bewertungen</p>
+					@if (!IsOwner)
+					{
+						<button @onclick="HandleRating">Bewerten</button>
+					}
+					@if (isRating)
+					{
+						<FluentNumberField Max="5" @bind-Value=@NewRating.Stars></FluentNumberField>
+						<input placeholder="Titel" @bind-value=@NewRating.CommentTitle/>
+						<input placeholder="Text" @bind-value=@NewRating.CommentText/>
+						<button @onclick=SaveRating>Speichern</button>
+					}
+					<div>
+						@foreach (var rating in Mix.Ratings)
+						{
+							<div style="border: 1px solid black">
+								<h5>@rating.CommentTitle</h5>
+								<p>@rating.Username</p>
+								@foreach (var star in GetStars(rating.Stars))
+								{
+									@if (star == 1)
+									{
+										<img src="full.png" width="10px" />
+									}
+									@if (star == 2)
+									{
+										<img src="half.png" width="10px">
+									}
+									@if (star == 0)
+									{
+										<img src="empty.png" width="10px" />
+									}
+								}
+								
+								<p>@rating.CommentText</p>
+							</div>
+							
+						}
+					</div>
+				</div>
+				<div>
+						
+				</div>
+		</div>
+		<div>
+			@* Bearbeiten *@
+			@if (isEditing)
+			{
+				<div>
+					<input @bind-value=Mix.Name/>
+					<input @bind-value=Mix.Description/>
+					<button @onclick="Save">Speichern</button>
+				</div>
+			}
+		</div>
+			<div>
+				@* Admin Buttons *@
+				@if (IsOwner)
+				{
+
+					<button @onclick="OpenEdit">
+						Bearbeiten
+					</button>
+					<button @onclick="Remove">Löschen</button>
+				}
+			</div>
 	</div>
+</div>
 }

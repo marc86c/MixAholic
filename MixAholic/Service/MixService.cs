@@ -65,5 +65,19 @@ namespace MixAholic.Service
 
 			var response = await HttpClient.DeleteAsync($"api/Mix/RemoveMix/{mixId}");
 		}
+
+        public async Task<Rating> RateMix(Rating rating)
+        {
+			HttpClient.DefaultRequestHeaders.Add("Bearer", UserState.SessionKey);
+
+			var response = await HttpClient.PostAsJsonAsync("api/Mix/RateMix", rating);
+			if (response.IsSuccessStatusCode)
+			{
+				var result = await response.Content.ReadFromJsonAsync<Rating>();
+				return result;
+			}
+            return null;
+
+		}
 	}
 }

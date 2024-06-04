@@ -8,6 +8,19 @@
 	<div>
 		<input placeholder="Name" @bind-value=NewMix.Name/>
 		<input placeholder="Beschreibung" @bind-value=NewMix.Description/>
+		<div>
+			<label>Zutaten</label><button @onclick=AddIngredient>+</button>
+			@foreach (var ingredient in NewMix.Ingredients)
+			{
+				<div>
+					<input placeholder="Name" @bind-value="ingredient.Name"/>
+					<input placeholder="Menge" @bind-value="ingredient.Amount"/>
+					<input placeholder="Mengenangabe in..." @bind-value="ingredient.Measurement"/>
+					<button @onclick="() => RemoveIngredient(NewMix.Ingredients.IndexOf(ingredient))">-</button>
+				</div>
+
+			}
+		</div>
 		<button @onclick="@(async () => await Save())">Speichern</button>
 	</div>	
 

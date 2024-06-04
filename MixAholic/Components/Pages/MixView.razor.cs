@@ -19,6 +19,8 @@ namespace MixAholic.Components.Pages
 		public Mix Mix { get; set; }
 		public bool IsOwner { get; set; }
 		public bool isEditing;
+		public Rating NewRating { get; set; }
+		public bool isRating;
 		protected async override Task OnInitializedAsync()
 		{
 			Mix = await MixService.GetMix(MixID);
@@ -39,6 +41,49 @@ namespace MixAholic.Components.Pages
 		{
 			await MixService.RemoveMix(MixID);
 			NavigationManager.NavigateTo("/");
+		}
+
+		public List<int> GetStars(decimal rating)
+		{
+			const int maxStars = 5;
+			List<int> stars = new List<int>();
+
+			int wholeStars = (int)rating;
+			stars.AddRange(Enumerable.Repeat(1, wholeStars));
+
+			if (rating % 1 >= 0.5m)
+			{
+				stars.Add(2);
+			}
+
+			stars.AddRange(Enumerable.Repeat(0, maxStars - stars.Count));
+
+			return stars;
+		}
+
+		public void HandleRating()
+		{
+			isRating = !isRating;
+			if (isRating)
+			{
+
+				NewRating = new Rating()
+				{
+					MixID = MixID,
+				};
+			}
+			else
+			{
+				NewRating = null;
+			}
+
+		}
+
+		public async Task SaveRating()
+		{
+			var rating = await MixService.RateMix(NewRating);
+			Mix.Ratings.Add(rating);
+			HandleRating();
 		}
 	}
 }

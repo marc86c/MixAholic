@@ -12,3 +12,4 @@ C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\refint\MixAholicCommon.dll
 C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\MixAholicCommon.pdb
 C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\MixAholicCommon.genruntimeconfig.cache
 C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\ref\MixAholicCommon.dll
+C:\VZ\MixAholic\MixAholicCommon\obj\Debug\net8.0\MixAholicCommon.sourcelink.json

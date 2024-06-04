@@ -43,3 +43,4 @@ C:\VZ\MixAholic\MixAholic\bin\Debug\net8.0\MixAholicCommon.runtimeconfig.json
 C:\VZ\MixAholic\MixAholic\bin\Debug\net8.0\MixAholicCommon.exe
 C:\VZ\MixAholic\MixAholic\bin\Debug\net8.0\MixAholicCommon.dll
 C:\VZ\MixAholic\MixAholic\bin\Debug\net8.0\MixAholicCommon.pdb
+C:\VZ\MixAholic\MixAholic\obj\Debug\net8.0\MixAholic.sourcelink.json

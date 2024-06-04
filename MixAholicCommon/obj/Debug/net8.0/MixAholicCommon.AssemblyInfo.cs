@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MixAholicCommon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02a56ebc66931ade015a290767497b4cb60c5e64")]
 [assembly: System.Reflection.AssemblyProductAttribute("MixAholicCommon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MixAholicCommon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

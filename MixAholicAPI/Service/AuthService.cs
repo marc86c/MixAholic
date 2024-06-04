@@ -103,5 +103,10 @@ namespace MixAholicAPI.Service
             }
             return user.UserID;
         }
-    }
+
+		public User GetUser(int UserId)
+		{
+            return userStore.Users.FirstOrDefault(x => x.UserID == UserId);
+		}
+	}
 }

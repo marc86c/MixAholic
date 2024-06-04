@@ -5,8 +5,32 @@
       "PackagePath": "staticwebassets\\app.css"
     },
     {
+      "Id": "C:\\VZ\\MixAholic\\MixAholic\\wwwroot\\empty.png",
+      "PackagePath": "staticwebassets\\empty.png"
+    },
+    {
       "Id": "C:\\VZ\\MixAholic\\MixAholic\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\VZ\\MixAholic\\MixAholic\\wwwroot\\full.png",
+      "PackagePath": "staticwebassets\\full.png"
+    },
+    {
+      "Id": "C:\\VZ\\MixAholic\\MixAholic\\wwwroot\\half.png",
+      "PackagePath": "staticwebassets\\half.png"
+    },
+    {
+      "Id": "C:\\VZ\\MixAholic\\MixAholic\\wwwroot\\source\\Rating\\empty.png",
+      "PackagePath": "staticwebassets\\source\\Rating\\empty.png"
+    },
+    {
+      "Id": "C:\\VZ\\MixAholic\\MixAholic\\wwwroot\\source\\Rating\\full.png",
+      "PackagePath": "staticwebassets\\source\\Rating\\full.png"
+    },
+    {
+      "Id": "C:\\VZ\\MixAholic\\MixAholic\\wwwroot\\source\\Rating\\half.png",
+      "PackagePath": "staticwebassets\\source\\Rating\\half.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MixAholic.Microsoft.AspNetCore.StaticWebAssets.props",

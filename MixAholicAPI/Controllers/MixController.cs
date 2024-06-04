@@ -47,10 +47,17 @@ namespace MixAholicAPI.Controllers
         }
 
         [HttpPost("RateMix", Name = "RateMix")]
-        public ActionResult<int> RateMix([FromBody] Rating rating)
+        public ActionResult<Rating> RateMix([FromBody] Rating rating)
         {
-            MixService.RateMix(rating);
-            return Ok();
+			var userId = AuthService.ValidateSessionKey(GetSessionKey());
+			if (userId == 0)
+			{
+				return Unauthorized();
+			}
+
+            var user = AuthService.GetUser(userId);
+
+            return Ok(MixService.RateMix(rating, user));
         }
 
         [HttpDelete("RemoveMix/{mixID}", Name = "RemoveMix")]

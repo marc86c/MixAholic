@@ -34,7 +34,7 @@ namespace MixAholicAPI.Service
             return mixStore.Mixes;
         }
 
-        public int RateMix(Rating rating)
+        public Rating RateMix(Rating rating, User user)
         {
             var currentMix = mixStore.Mixes.FirstOrDefault(x => x.MixID == rating.MixID);
 
@@ -44,10 +44,12 @@ namespace MixAholicAPI.Service
 				newId = mixStore.Mixes.Max(x => x.MixID) + 1;
 			}
 
+            rating.UserID = user.UserID;
+            rating.Username = user.Username;
 			currentMix.Ratings.Add(rating);
             UpdateMix(currentMix);
 
-            return newId;
+            return rating;
         }
 
         public void RemoveMix(int mixId)

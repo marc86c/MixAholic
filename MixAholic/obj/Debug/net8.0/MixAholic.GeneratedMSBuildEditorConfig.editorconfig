@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MixAholic
 build_property.RootNamespace = MixAholic
-build_property.ProjectDir = c:\VZ\MixAholic\MixAholic\
+build_property.ProjectDir = C:\VZ\MixAholic\MixAholic\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\VZ\MixAholic\MixAholic
+build_property.MSBuildProjectDirectory = C:\VZ\MixAholic\MixAholic
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/VZ/MixAholic/MixAholic/Components/App.razor]
+[C:/VZ/MixAholic/MixAholic/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/Layout/MainLayout.razor]
+[C:/VZ/MixAholic/MixAholic/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/Layout/NavMenu.razor]
+[C:/VZ/MixAholic/MixAholic/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/Pages/Counter.razor]
+[C:/VZ/MixAholic/MixAholic/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/Pages/Error.razor]
+[C:/VZ/MixAholic/MixAholic/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/Pages/Home.razor]
+[C:/VZ/MixAholic/MixAholic/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/Pages/Login.razor]
+[C:/VZ/MixAholic/MixAholic/Components/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/Pages/MixView.razor]
+[C:/VZ/MixAholic/MixAholic/Components/Pages/MixView.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNaXhWaWV3LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/Pages/Register.razor]
+[C:/VZ/MixAholic/MixAholic/Components/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWdpc3Rlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/Pages/Weather.razor]
+[C:/VZ/MixAholic/MixAholic/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/Routes.razor]
+[C:/VZ/MixAholic/MixAholic/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/VZ/MixAholic/MixAholic/Components/_Imports.razor]
+[C:/VZ/MixAholic/MixAholic/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

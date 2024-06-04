@@ -37,3 +37,4 @@ C:\VZ\MixAholic\MixAholicAPI\obj\Debug\net8.0\refint\MixAholicAPI.dll
 C:\VZ\MixAholic\MixAholicAPI\obj\Debug\net8.0\MixAholicAPI.pdb
 C:\VZ\MixAholic\MixAholicAPI\obj\Debug\net8.0\MixAholicAPI.genruntimeconfig.cache
 C:\VZ\MixAholic\MixAholicAPI\obj\Debug\net8.0\ref\MixAholicAPI.dll
+C:\VZ\MixAholic\MixAholicAPI\obj\Debug\net8.0\MixAholicAPI.sourcelink.json

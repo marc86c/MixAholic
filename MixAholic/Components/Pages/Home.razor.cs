@@ -58,5 +58,14 @@ namespace MixAholic.Components.Pages
             NavigationManager.NavigateTo($"/Mix/{mixId}");
         }
 
+        public void AddIngredient()
+        {
+            NewMix.Ingredients.Add(new Ingredient());
+        }
+
+        public void RemoveIngredient(int index)
+        {
+            NewMix.Ingredients.RemoveAt(index);
+        }
 	}
 }

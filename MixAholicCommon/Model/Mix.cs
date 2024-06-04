@@ -16,7 +16,7 @@ namespace MixAholicCommon.Model
         public List<Ingredient> Ingredients { get; set; } = new List<Ingredient>();
         public List<Rating> Ratings { get; set; } = new List<Rating>();
 
-        public decimal RatingStars => Ratings.Select(x => x.Stars).Sum();
+        public decimal RatingStars => Ratings.Count() > 0 ? Math.Round(Ratings.Select(x => x.Stars).Average(), 1) : 0;
         public int RatingCount => Ratings.Count();
     }
 }
